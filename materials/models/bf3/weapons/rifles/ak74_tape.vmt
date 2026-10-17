@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+$basetexture 	"models/bf3/weapons/rifles/ak74_tape"
+//$bumpmap 	"models/bf3/weapons/rifles/"
+$nocull		1
+//
+$halflambert 	1
+$color2		"[1.5 1.5 1.5]"
+}

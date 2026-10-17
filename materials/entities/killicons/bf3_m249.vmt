@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "entities/killicons/bf3_m249"
+	"$translucent" 1
+}

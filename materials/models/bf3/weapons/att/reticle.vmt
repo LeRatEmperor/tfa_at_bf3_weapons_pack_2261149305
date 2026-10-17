@@ -1,0 +1,20 @@
+unlitgeneric
+{
+$basetexture 	"models/bf3/weapons/att/reticle"
+$nocull		1
+//$translucent 	1
+//$additive 	1
+$alphatest	1
+        $alphatestreference 0.5
+//        $allowalphatocoverage 1
+$selfillum 		1
+$color2 		"[1 0 0]"
+	Proxies
+	{
+		TFAReticuleColor
+		{
+			resultVar $color2
+		}
+	}
+}
+
